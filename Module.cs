@@ -13,7 +13,7 @@ using System.Linq;
 using System.Diagnostics;
 
 
-namespace Falson.SquadRoleRandomizer
+namespace Falson.TemplateModule
 {
     [Export(typeof(Blish_HUD.Modules.Module))]
     public class Module : Blish_HUD.Modules.Module
